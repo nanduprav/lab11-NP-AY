@@ -1,3 +1,8 @@
+# https://github.com/nanduprav/lab11-NP-AY
+# Partner 1: Nandana Praveen
+# Partner 2: Angela Yang
+# Partner 3: Keysie Perez Barriga
+
 import unittest
 from calculator import *
 
