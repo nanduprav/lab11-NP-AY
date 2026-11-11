@@ -33,3 +33,11 @@ def logarithm(a, b):
 def exponent(a, b):
     return a ** b
 
+def hypotenuse(a, b):
+    return math.hypot(a, b)
+
+def square_root(a):
+    if a < 0 :
+        raise ValueError("Invalid sqrt argument.")
+    return math.sqrt(a)
+
